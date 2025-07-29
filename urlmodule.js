@@ -6,3 +6,4 @@ myURL.search = '?d=e';
 myURL.hash = '#fgh';
 
 console.log(myURL)
+console.log(myURL.href)
